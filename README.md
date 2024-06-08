@@ -1,4 +1,4 @@
-# Company Growth Visualizer
+# Short Video Generator: Market Cap Comparison 📈
 
 ## Overview
 
