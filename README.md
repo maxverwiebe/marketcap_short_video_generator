@@ -6,8 +6,7 @@ The Company Growth Visualizer is a Python-based tool that visualizes the growth 
 It is perfect for YouTube, Instagram and TikTok short videos!
 
 ### Example
-
-[![Watch the video](example\company_growth_pygame.mp4)](example\company_growth_pygame.mp4)
+https://github.com/maxverwiebe/marketcap_short_video_generator/assets/66183307/18cdfbf5-9bda-4c9c-9434-8860beca1748
 
 ## Project Structure
 
