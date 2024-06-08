@@ -43,8 +43,8 @@ project_root/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/company-growth-visualizer.git
-   cd company-growth-visualizer
+   git clone https://github.com/maxverwiebe/marketcap_short_video_generator.git
+   cd marketcap_short_video_generator
    ```
 
 2. **Set up a virtual environment** (optional but recommended):
